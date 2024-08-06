@@ -6,6 +6,7 @@ public class gitClass {
         System.out.println("New branch");
         System.out.println("Main");
         System.out.println("Project Git");
+        System.out.println("Stash");
 
 
     }
