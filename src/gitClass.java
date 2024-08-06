@@ -7,6 +7,7 @@ public class gitClass {
         System.out.println("Main");
         System.out.println("Project Git");
         System.out.println("Stash");
+        System.out.println("Hi");
 
 
     }
